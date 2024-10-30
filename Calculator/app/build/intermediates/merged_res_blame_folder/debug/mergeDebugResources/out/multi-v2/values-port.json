@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.happybirthday.app-mergeDebugResources-29:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vuhun\\.gradle\\caches\\transforms-4\\e7044d2f9a2099dea8811b1000f5cf94\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
